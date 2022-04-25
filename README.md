@@ -3,9 +3,9 @@ Generating a Marketing Mix Model (MMM) using machine learning techniques to fore
 
 My first project as Data Science Intern at Hallam is to develop a Marketing Mix Model for a client. 
 
-In preparation for this, I used Sagidur Rahman's Kaggle - made public on Kaggle. 
+In preparation for this, I used Sagidur Rahman's Kaggle dataset - made public on Kaggle. 
 Using this data set, I performed Exploratory Data Analysis; developing a correlation matrix, pariplot, contribution plot and conducting feature importance. 
-The correlation maps showed that sales showed a strong correlation between TV and sales (0.78), there was a moderate correlation between radio and sales (0.58), and a weak correlation between newspaper and sales (0.23). The other EDA also acted in support of these findings. 
+The correlation maps showed that sales showed a strong correlation between TV and sales (0.78), there was a moderate correlation between radio and sales (0.58), and a weak correlation between newspaper and sales (0.23). The other EDA also acted in support of these findings. (This is the python script in the files available to preview)
 
 I then developed the predicted values model and then compared predicted sales values with the actual sales values to visually see how the model performed.
 The model, appeared to be a good estimator of sales values. 
@@ -42,6 +42,10 @@ Predicted vs Atual Sales
 Marketing Mixed Model Summary 
 
 ![MMM_Example_Model_Summary](https://user-images.githubusercontent.com/93582626/144768051-c96278d5-2a7f-4acf-b400-5031444d7f16.png)
+
+## Implemented Code
+
+Available on the Jupyter Code in the available files is the product for a client which applied the research carried out on real-world data. 
 
 Acknowledgements
 
